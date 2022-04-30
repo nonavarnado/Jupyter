@@ -1,0 +1,5 @@
+Slightly random assortment of Jupyter notebooks from UCI Earth Systems Science undergrad classwork and research.
+
+Plus a selection of process notebooks exploring the idea of how to advance finding areas of interest and correlations in large 4D climate model datasets. Currently it is a long and time consuming process to run a variable analysis using either numerical stats (or potentially a visual 'heatmap'). The idea was initially to build a python tool to animate the pressure level concentrations so that a trained individual could quickly visually review 4D model runs to find areas of interest. It then occurred to me that this is a prime area to investigate how machine learning techniques can better facilitate this discovery process. A few months later the paper, "Advancing mathematics by guiding human intuition with AI" https://www.nature.com/articles/s41586-021-04086-x was published successfully demonstrating this linkage of ideas. 
+
+I am currently looking into machine learning opportunities to further pursue building a similar framework for climate model analysis.
